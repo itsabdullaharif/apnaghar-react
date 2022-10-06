@@ -1,0 +1,10 @@
+.hide {
+    display: none;
+}
+
+.show {
+    background-color: white;
+    display: block;
+    position: absolute;
+    top: 8rem;
+}
